@@ -16,7 +16,7 @@ while True:
 	try:
 		players = int(input("\nHow many players are there?: "))
 		break
-	except: print("Enter a fucking number, m8")
+	except: print("Enter a number, m8")
 	
 #create a list of names based on number of players
 
